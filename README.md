@@ -1,2 +1,2 @@
-# JenkinsTest
-just for learning Jenkins
+# GitTutorial
+Just for learning git's workflow
